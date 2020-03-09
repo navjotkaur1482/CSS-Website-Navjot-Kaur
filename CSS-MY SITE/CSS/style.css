@@ -1,0 +1,216 @@
+
+h1
+{
+  margin-top:50px auto 0 auto;
+  color: #66BFBF;
+
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+
+}
+h2
+{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+padding-bottom: 10Ppx;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+body
+{
+  color:#40514E;
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+.top-container
+{
+  background-color: #E4F9F6;
+  padding-top: 100px;
+  position: relative;
+
+}
+
+.middle-container
+{
+
+margin:100px 0 100px 0;
+}
+.bottom-container
+{
+
+
+
+}
+
+.footer-link{
+  color: #11999E;
+}
+.top-cloud{
+  position: absolute;
+  right:200px;
+  top:40px;
+}
+.bottom-cloud{
+  position: absolute;
+  bottom: 300px;
+  left: 250px;
+}
+
+.computerImage{
+  border-radius: 50%;
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+.bhangraImage{
+  border-radius: 50%;
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+.me-image{
+  border-radius: 50%;
+
+}
+.skill-row
+{
+  width:50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+/*.computerDescription
+{
+  clear:left;
+}
+.danceDescription
+{
+  clear: right;
+}
+*/
+.intro{
+  width:30%;
+  margin:auto;
+}
+.contact-me{
+  margin: 40px auto 60px auto;
+  width:40%;
+}
+
+p{
+  line-height: 2;
+}
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 5%;
+  margin:100px auto;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.top{
+  background-color: #E4F9F6;
+  border:solid 10px;
+  height: 200px;
+  width:200px;
+
+  padding: 20px;
+}
+
+.middle{
+  height: 200px;
+  width:200px;
+  background-color: red;
+  border:solid 20px;
+
+  margin-left: 260px;
+}
+.bottom{
+  height: 200px;
+  width:200px;
+  background-color: blue;
+  border:solid 10px;
+  margin-left: 500px;
+}
+
+
+.a{
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  display: inline-block;
+  position:relative;
+  left:200px;
+}
+.b{
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  display: inline-block;
+  position:relative;
+  right:100px;
+}
+.c{
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+  display: inline-block;
+  position:relative;
+  right:100px;
+}
+
+
+
+.aa{
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  position: absolute;
+  left:200px;
+  top: 200px;
+
+
+}
+.bb{
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  position: absolute;
+  left:100px;
+  top: 100px;
+}
+.cc{
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+  position: absolute;
+
+}
